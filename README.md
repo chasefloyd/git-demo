@@ -2,4 +2,5 @@
 
 ## contributor 
 
-- Bob
+- Ryan
+- Chase
